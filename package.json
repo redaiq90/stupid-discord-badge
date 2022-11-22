@@ -8,7 +8,7 @@
   "main": "index.js",
   "scripts": {
     "build": "npm i && node .",
-8   "test": "echo \"Done\"",
+8   "test": "",
 9   "start": "node index.js"
   },
   "repository": {
